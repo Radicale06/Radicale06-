@@ -33,22 +33,55 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-```
- ╭──────────────────────────────────────────────────────────────────╮
- │                                                                  │
- │   AI Engineer with a Data Engineering degree.                    │
- │   I optimize LLM inference on bare-metal GPUs,                   │
- │   build real-time voice agent pipelines,                         │
- │   and ship full-stack AI products end-to-end.                    │
- │                                                                  │
- │   Everything I build runs in Docker.                             │
- │   Everything I deploy, I self-host.                              │
- │                                                                  │
- │   Currently building under Quicky Prime —                        │
- │   my brand for AI engineering & product development.             │
- │                                                                  │
- ╰──────────────────────────────────────────────────────────────────╯
-```
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="170" />
+
+### Hey, I'm Oussama 👋
+
+AI Engineer with a **Data Engineering** degree from the Faculty of Sciences of Sfax. I work across the full AI stack — from **GPU memory optimization** on NVIDIA L40S to **production voice agents** handling real phone calls.
+
+> *"If it's not in a Docker container, it doesn't exist."*
+
+Currently building under **Quicky Prime** 🚀 — my brand for AI engineering & product development.
+
+</td>
+<td width="45%" valign="top">
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" />
+
+#### ⚡ Quick Facts
+
+🧠 &nbsp; Optimizing **LLM inference** on bare-metal GPUs  
+🗣️ &nbsp; Building **real-time voice agents** with LiveKit  
+🌍 &nbsp; Specializing in **Arabic-dialect** TTS/STT  
+🐳 &nbsp; Self-hosting **everything** I deploy  
+🏗️ &nbsp; Shipping **full-stack AI products** end-to-end  
+🎓 &nbsp; Data Engineering · Faculty of Sciences of Sfax  
+📍 &nbsp; Tunisia 🇹🇳  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Focus-LLM_Inference_&_Voice_AI-58a6ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Brand-Quicky_Prime-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-GPU_→_Docker_→_API-76B900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-28a745?style=for-the-badge" />
+</div>
 
 <br/>
 
@@ -192,30 +225,50 @@
 <!-- ║                    GITHUB STATS                               ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="25"> GitHub Analytics
 
-
 <br/>
 
+<!-- Main stats card — showing commits, PRs, issues, reviews, merges -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Radicale06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Radicale06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Radicale06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" height="220" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Radicale06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" height="220" />
 </p>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radicale06&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="250" />
+<!-- Languages + This Year's Stats side by side -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radicale06&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="280" />
+<img src="https://github-readme-stats.vercel.app/api?username=Radicale06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=false&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&custom_title=2026%20So%20Far" height="280" />
+</p>
 
-<br/><br/>
+<br/>
+
+<!-- GitHub Profile Summary Cards — detailed breakdown -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radicale06&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Radicale06&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Radicale06&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Radicale06&theme=github_dark&utcOffset=1" height="180" />
+</p>
+
+<br/>
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Radicale06&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radicale06&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&area_color=58a6ff&hide_border=true" width="100%" />
 
 </div>
 

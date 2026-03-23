@@ -64,7 +64,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f2eca7966.gif" width="38" align="left" />
 
-**AI Engineer** with a **Data Engineering** degree · Faculty of Sciences of Sfax 🇹🇳
+**AI Engineer** with a **Data Engineering** degree .
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Everything I build runs in **Docker** · Everything I deploy, I **self-host**
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="38" align="left" />
 
-Currently building under **Quicky Prime** — my brand for AI engineering & product development.
+Currently building under **Quicky Prime** .
 
 </td>
 </tr>
@@ -144,12 +144,12 @@ Currently building under **Quicky Prime** — my brand for AI engineering & prod
 <p align="center">
 <img src="https://img.shields.io/badge/LiveKit-FF2D55?style=for-the-badge&logo=webrtc&logoColor=white" />
 <img src="https://img.shields.io/badge/SIP_Telephony-0058CC?style=for-the-badge&logo=twilio&logoColor=white" />
-<img src="https://img.shields.io/badge/Whisper_(STT)-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/XTTS-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Piper_TTS-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/STT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/TTS-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatterBox-TTS-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Tacotron2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hamsa_AI_(Arabic)-009688?style=for-the-badge&logo=googletranslate&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_Realtime-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
@@ -184,7 +184,7 @@ Currently building under **Quicky Prime** — my brand for AI engineering & prod
 
 ### 🖥️ GPU & Hardware
 <p align="center">
-<img src="https://img.shields.io/badge/NVIDIA_L40S-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Multi--Model_GPU_Optimization-000000?style=for-the-badge&logo=nvidia&logoColor=76B900" />
 <img src="https://img.shields.io/badge/AMP_Training-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -208,24 +208,11 @@ Currently building under **Quicky Prime** — my brand for AI engineering & prod
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-🔧 **EliteRoute** — AI-powered logistics SaaS with 3 interfaces (Super Admin · Company · Driver) under the Quicky Prime brand
+🔧 **Check Repo's mate Bellow** 
 
-🗣️ **Arabic Voice Agents** — Production voice pipelines with LiveKit + Hamsa AI, handling real phone calls via self-hosted SIP
-
-</td>
-<td width="50%" valign="top">
-
-🧱 **Open-Source Boilerplates** — Full-stack starters that actually work out of the box with Docker, auth, and deployment scripts
-
-📡 **Self-Hosted Infra** — Running my own project management, helpdesks, and telephony stack on dedicated servers
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 

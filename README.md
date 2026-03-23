@@ -41,23 +41,21 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="210" />
 
-```js
-const oussama = {
-    title: "AI Engineer",
-    degree: "Data Engineering — Faculty of Sciences of Sfax",
-    brand: "Quicky Prime 🚀",
-    location: "Tunisia 🇹🇳",
-    
-    dailyLife: [
-        "⚡ Optimizing LLM inference on bare-metal GPUs",
-        "🗣️ Building real-time voice agents with LiveKit",
-        "🌍 Specializing in Arabic-dialect TTS / STT",
-        "🐳 Self-hosting everything I deploy",
-        "🏗️ Shipping full-stack AI products end-to-end",
-    ],
-
-    philosophy: "If it's not in a Docker container, it doesn't exist.",
-};
+```
+ ╭──────────────────────────────────────────────────────────────────╮
+ │                                                                  │
+ │   AI Engineer with a Data Engineering degree.                    │
+ │   I optimize LLM inference on bare-metal GPUs,                   │
+ │   build real-time voice agent pipelines,                         │
+ │   and ship full-stack AI products end-to-end.                    │
+ │                                                                  │
+ │   Everything I build runs in Docker.                             │
+ │   Everything I deploy, I self-host.                              │
+ │                                                                  │
+ │   Currently building under Quicky Prime —                        │
+ │   my brand for AI engineering & product development.             │
+ │                                                                  │
+ ╰──────────────────────────────────────────────────────────────────╯
 ```
 
 <br/>

@@ -73,7 +73,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="38" align="left" />
 
-I optimize **LLM inference** on bare-metal GPUs, build **real-time voice agent** pipelines, and ship **full-stack AI products** end-to-end.
+I optimize **LLM inference** on bare-metal GPUs, build **real-time voice agent** & Agentic AI pipelines, and ship **full-stack AI products** (end to end i think).
 
 </td>
 </tr>

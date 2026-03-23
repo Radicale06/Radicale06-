@@ -37,50 +37,36 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-</div>
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="210" />
+
+```js
+const oussama = {
+    title: "AI Engineer",
+    degree: "Data Engineering — Faculty of Sciences of Sfax",
+    brand: "Quicky Prime 🚀",
+    location: "Tunisia 🇹🇳",
+    
+    dailyLife: [
+        "⚡ Optimizing LLM inference on bare-metal GPUs",
+        "🗣️ Building real-time voice agents with LiveKit",
+        "🌍 Specializing in Arabic-dialect TTS / STT",
+        "🐳 Self-hosting everything I deploy",
+        "🏗️ Shipping full-stack AI products end-to-end",
+    ],
+
+    philosophy: "If it's not in a Docker container, it doesn't exist.",
+};
+```
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="170" />
-
-### Hey, I'm Oussama 👋
-
-AI Engineer with a **Data Engineering** degree from the Faculty of Sciences of Sfax. I work across the full AI stack — from **GPU memory optimization** on NVIDIA L40S to **production voice agents** handling real phone calls.
-
-> *"If it's not in a Docker container, it doesn't exist."*
-
-Currently building under **Quicky Prime** 🚀 — my brand for AI engineering & product development.
-
-</td>
-<td width="45%" valign="top">
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" />
-
-#### ⚡ Quick Facts
-
-🧠 &nbsp; Optimizing **LLM inference** on bare-metal GPUs  
-🗣️ &nbsp; Building **real-time voice agents** with LiveKit  
-🌍 &nbsp; Specializing in **Arabic-dialect** TTS/STT  
-🐳 &nbsp; Self-hosting **everything** I deploy  
-🏗️ &nbsp; Shipping **full-stack AI products** end-to-end  
-🎓 &nbsp; Data Engineering · Faculty of Sciences of Sfax  
-📍 &nbsp; Tunisia 🇹🇳  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
 <img src="https://img.shields.io/badge/Focus-LLM_Inference_&_Voice_AI-58a6ff?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Brand-Quicky_Prime-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stack-GPU_→_Docker_→_API-76B900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pipeline-GPU_→_Docker_→_API-76B900?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-28a745?style=for-the-badge" />
+
 </div>
 
 <br/>
@@ -110,7 +96,8 @@ Currently building under **Quicky Prime** 🚀 — my brand for AI engineering &
 <img src="https://img.shields.io/badge/Ray_Clusters-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
 <img src="https://img.shields.io/badge/Triton_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/GGUF_Quantization-FF4088?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-263238?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG_Pipelines-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
@@ -125,6 +112,8 @@ Currently building under **Quicky Prime** 🚀 — my brand for AI engineering &
 <img src="https://img.shields.io/badge/Piper_TTS-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Tacotron2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hamsa_AI_(Arabic)-009688?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_Realtime-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 <br/>

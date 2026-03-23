@@ -35,35 +35,74 @@
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="210" />
-
-```
- ╭──────────────────────────────────────────────────────────────────╮
- │                                                                  │
- │   AI Engineer with a Data Engineering degree.                    │
- │   I optimize LLM inference on bare-metal GPUs,                   │
- │   build real-time voice agent pipelines,                         │
- │   and ship full-stack AI products end-to-end.                    │
- │                                                                  │
- │   Everything I build runs in Docker.                             │
- │   Everything I deploy, I self-host.                              │
- │                                                                  │
- │   Currently building under Quicky Prime —                        │
- │   my brand for AI engineering & product development.             │
- │                                                                  │
- ╰──────────────────────────────────────────────────────────────────╯
-```
+<!-- Animated tech icons orbit -->
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="40" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-b521-c0d0f013f8d6.gif" width="40" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52f1adb1e44.gif" width="40" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" />
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-LLM_Inference_&_Voice_AI-58a6ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Brand-Quicky_Prime-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pipeline-GPU_→_Docker_→_API-76B900?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-28a745?style=for-the-badge" />
+<table>
+<tr>
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f2eca7966.gif" width="38" align="left" />
+
+**AI Engineer** with a **Data Engineering** degree · Faculty of Sciences of Sfax 🇹🇳
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="38" align="left" />
+
+I optimize **LLM inference** on bare-metal GPUs, build **real-time voice agent** pipelines, and ship **full-stack AI products** end-to-end.
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="38" align="left" />
+
+Everything I build runs in **Docker** · Everything I deploy, I **self-host**
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="38" align="left" />
+
+Currently building under **Quicky Prime** — my brand for AI engineering & product development.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🧠_Focus-Agentic AI & Deplo-58a6ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Brand-Quicky_Prime-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️_Pipeline-GPU_→_Docker_→_API-76B900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✅_Status-Open_to_Opportunities-28a745?style=for-the-badge" />
 
 </div>
 

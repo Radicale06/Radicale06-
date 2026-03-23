@@ -1,13 +1,13 @@
 # .github/workflows/snake.yml
-# This generates the snake animation that eats your contribution graph
-# Place this file at: Radicale06/.github/workflows/snake.yml
-
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:

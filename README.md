@@ -8,7 +8,7 @@
 <!-- ║                       HEADER SECTION                         ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Oussama%20Chaabene&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Systems%20Builder%20%C2%B7%20Quicky%20Prime&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Oussama%20Chaabene&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Systems%20Builder&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
 
 <br/>
 
@@ -49,7 +49,7 @@
 &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" />
 &nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b04-b521-c0d0f013f8d6.gif" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" />
 &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52f1adb1e44.gif" width="40" />
 &nbsp;&nbsp;

@@ -98,7 +98,6 @@ Currently building under **Quicky Prime** .
 <br/>
 
 <img src="https://img.shields.io/badge/🧠_Focus-Agentic AI & Deplo-58a6ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀_Brand-Quicky_Prime-FF6B35?style=for-the-badge" />
 <img src="https://img.shields.io/badge/⚙️_Pipeline-GPU_→_Docker_→_API-76B900?style=for-the-badge" />
 <img src="https://img.shields.io/badge/✅_Status-Open_to_Opportunities-28a745?style=for-the-badge" />
 
